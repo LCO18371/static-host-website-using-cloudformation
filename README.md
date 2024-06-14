@@ -1,1 +1,1 @@
-# static-host-website-using-cloudformation-TEST
+# static-host-website-using-cloudformation-
